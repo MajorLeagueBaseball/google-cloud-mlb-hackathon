@@ -98,7 +98,7 @@ data = response.json()
 
 ### Getting Started
 
-1. Review the provided [GUMBO User Guide documentation](https://github.com/MajorLeagueBaseball/google-cloud-mlb-hackathon/blob/main/MLB-StatsAPI%20-%20GUMBO%20-%20User%20Guide.pdf) in this repository for detailed information about:
+1. Review the provided [documentation](https://github.com/MajorLeagueBaseball/google-cloud-mlb-hackathon/tree/main/datasets/mlb-statsapi-docs) in this repository for detailed information about:
    - Available endpoints
    - Data structure
    - Query parameters
